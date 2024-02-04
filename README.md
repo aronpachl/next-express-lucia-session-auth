@@ -4,6 +4,7 @@
 - [Lucia](https://lucia-auth.com/)
 - [Express](https://expressjs.com/)
 - [Next.js](https://nextjs.org/)
+- [Turborepo](https://turbo.build/repo)
 
 
 ## Getting started
