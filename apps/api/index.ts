@@ -39,5 +39,3 @@ app.use(async (req, res, next) => {
 app.use(mainRouter, loginRouter, signupRouter, logoutRouter)
 
 app.listen(8080)
-
-console.log('Server running on port 8080')
